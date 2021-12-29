@@ -1,6 +1,8 @@
+package com.company.algorithm_solving.study.week4;
+
 import java.util.*;
 
-public class Main {
+public class test2 {
     // 마법사 상어와 비바라기
 
     static int n;
@@ -9,7 +11,7 @@ public class Main {
     static int dx[ ] = {0,-1,-1,-1,0,1,1,1};
     static int dy[ ] = {-1,-1,0,1,1,1,0,-1};
     static Move moves[ ];
-    static List<Point> cloudPosList = new ArrayList<>();
+    static Map<String, Boolean> cloudPosMap = new HashMap<>();
     static Queue<Point> nowQ = new LinkedList<>();
     static Queue<Point> nextQ = new LinkedList<>();
 
@@ -79,7 +81,7 @@ public class Main {
                 yp = yp2;
             }
             nextQ.add(new Point(xp, yp));
-            cloudPosList.add(new Point(xp, yp));
+            cloudPosMap.put(xp + ":" + yp, true);
             A[xp][yp] += 1;
         }
     }
@@ -115,17 +117,9 @@ public class Main {
 
         for(int i=0; i<n; i++) {
             for(int j=0; j<n; j++) {
-                // 전 단계에 구름이였던 곳은 제외
-                boolean isPrevCloud = false;
-                for(int k=0; k<cloudPosList.size(); k++) {
-                    Point p = cloudPosList.get(k);
-                    if(p.x == i && p.y == j) {
-                        isPrevCloud = true;
-                        break;
-                    }
-                }
 
-                if(isPrevCloud) continue;
+                boolean isPrevCloud = cloudPosMap.containsKey(i+":"+j);
+                if(isPrevCloud) continue;  // 전 단계에 구름이였던 곳은 제외
 
                 if(A[i][j] >= 2) {
                     A[i][j] -= 2;
@@ -134,7 +128,7 @@ public class Main {
             }
         }
 
-        cloudPosList.clear();
+        cloudPosMap.clear();
     }
 
     public static void processOutputData( ) {
