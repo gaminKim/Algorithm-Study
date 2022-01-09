@@ -34,7 +34,7 @@
 
 
 
-## 2022 1월 9일은 [오프라인]
+## 2022 1월 16일은 [온라인]
 
 __일요일 오전__
 
@@ -58,19 +58,17 @@ https://gather.town/invite?token=pgp4BlXn
 
 ## 문제
 
-이번주 알고리즘 : 플로이드 와샬 1문제, 삼성 기출 2
+이번주 알고리즘 : 투포인터
 
 문제 :   
-  
-1. 어항 정리[정이, 다정]
-https://www.acmicpc.net/problem/23291
-
-2. 플로이드[태준, 가민]
-https://www.acmicpc.net/problem/11404
-
-3. 마법사 상어와 복제[희태]
-https://www.acmicpc.net/problem/23290
-   
+1. 리트코드[태준, 윤혁]
+https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/  
+2. 경사로[희태, 지혁]
+https://www.acmicpc.net/problem/14890
+3. 소수의 연속합[정이, 형동]
+ https://www.acmicpc.net/problem/1644
+4. 게으른 백곰[가민, 다정]
+https://www.acmicpc.net/problem/10025
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
