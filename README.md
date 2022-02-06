@@ -10,6 +10,8 @@
 
 오프라인 모임 시, 스터디룸비 발생 (5천원정도)
 
+보증금: 3만원
+
 ## 불참자 관리
 
 |  |온/오프|가민|다정|정이|희태|윤혁|
@@ -34,13 +36,13 @@
 
 
 
-## 2022 2월 06일은 [온라인]
+## 2022 2월 13일은 [오프라인]
 
 __일요일 오전__
 
 __10시__
 
-미참석 : 정이, 윤혁
+미참석 : 
 
 
 ## 만나는 장소
@@ -62,14 +64,14 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. 양과 늑대
-https://programmers.co.kr/learn/courses/30/lessons/92343
+1. [3차] 방금그곡
+https://programmers.co.kr/learn/courses/30/lessons/17683
 
-2. 파괴되지 않은 건물
-https://programmers.co.kr/learn/courses/30/lessons/92344
+2. [3차] 압축
+https://programmers.co.kr/learn/courses/30/lessons/17684
 
-3. 사라지는 발판
-https://programmers.co.kr/learn/courses/30/lessons/92345
+3. 스타트와 링크
+https://www.acmicpc.net/problem/14889
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
