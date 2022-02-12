@@ -1,0 +1,30 @@
+import math
+
+def solution(m, musicinfos):
+    answer = []
+    m = m.replace("C#", "c").replace("D#", "d").replace("F#", "f").replace("G#", "g").replace("A#", "a")
+    for x in musicinfos:
+        st, et, title, melody = x.split(',')
+        melody = melody.replace("C#", "c").replace("D#", "d").replace("F#", "f").replace("G#", "g").replace("A#", "a")
+        h, min = map(int, st.split(':'))
+        stime = h * 60 + min
+        h, min = map(int, et.split(':'))
+        etime = h * 60 + min
+        play_time = etime - stime
+        
+        q = play_time // len(melody)
+        r = play_time % len(melody)
+        melody = melody * q + melody[:r]
+        
+        if m in melody:
+            if len(answer) == 0:
+                answer.append([play_time, title, stime])
+            else:
+                if answer[0][0] < play_time:
+                    answer[0][0] = play_time
+                    answer[0][1] = title
+    
+    if len(answer) == 0:
+        return "(None)"
+
+    return answer[0][1]
