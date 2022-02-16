@@ -60,18 +60,18 @@ https://gather.town/invite?token=pgp4BlXn
 
 ## 문제
 
-이번주 알고리즘 :
+이번주 알고리즘 : 삼성기출
 
 문제 :   
 
-1. [3차] 방금그곡
-https://programmers.co.kr/learn/courses/30/lessons/17683
+1. 구슬탈출2
+https://www.acmicpc.net/problem/13460
 
-2. [3차] 압축
-https://programmers.co.kr/learn/courses/30/lessons/17684
+2. 2048(Easy)
+https://www.acmicpc.net/problem/12100
 
-3. 스타트와 링크
-https://www.acmicpc.net/problem/14889
+3. 뱀
+https://www.acmicpc.net/problem/3190
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
