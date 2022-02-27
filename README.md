@@ -35,7 +35,7 @@
 
 
 
-## 2022 2월 27일은 [오프라인]
+## 2022 3월 06일은 [온라인]
 
 __일요일 오전__
 
@@ -59,21 +59,21 @@ https://gather.town/invite?token=pgp4BlXn
 
 ## 문제
 
-이번주 알고리즘 : 삼성기출
+이번주 알고리즘 : 삼성+카카오 기출
 
 문제 :   
 
-1. 구슬탈출2
-https://www.acmicpc.net/problem/13460
+1. 주사위굴리기
+https://www.acmicpc.net/problem/14499
 
-2. 2048(Easy)
-https://www.acmicpc.net/problem/12100
+2. 테트로미노
+https://www.acmicpc.net/problem/14500
 
-3. 뱀
-https://www.acmicpc.net/problem/3190
+3. 행렬테두리회전하기
+https://programmers.co.kr/learn/courses/30/lessons/77485
 
-4. 시험감독
-https://www.acmicpc.net/problem/13458
+4. 다단계칫솔판매
+https://programmers.co.kr/learn/courses/30/lessons/77486
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
