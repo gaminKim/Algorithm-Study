@@ -96,39 +96,25 @@ def is_apple_cell():
 
 
 for time in range(1, 10001):
-
-    # 먼저 뱀은 몸 길이를 늘려 머리를 다음 칸에 위치 시킨다
     move()
-    # 경계 선을 넘었는지 확인
+
     if is_out():
         print(time)
-        print('border')
         break
 
-    # 몸통에 부딪혔는지 확인
     if collison_body():
         print(time)
-        print(snake, visited)
-        print('collision')
         break
 
-    # 늘어난 머리 위치 저장
     flag(snake[-1][0], snake[-1][1])
 
-    # 현재 위치에 사과가 있는지 확인
     if not is_apple_cell():
-        # 꼬리 제거
         x, y = snake.popleft()
-        # 꼬리 방문 제거
         de_flag(x, y)
-        # if time == 8:
-        #     print(snake, time)
-        #     break
     else:
-        # 사과 먹기
         x, y = snake[-1]
         apples[x][y] = False
-    # 방향 전환
+
     if snake_moves:
         second, command = snake_moves[0]
 
