@@ -35,7 +35,7 @@
 
 
 
-## 2022 3월 06일은 [온라인]
+## 2022 3월 13일은 [오프라인]
 
 __일요일 오전__
 
@@ -59,21 +59,21 @@ https://gather.town/invite?token=pgp4BlXn
 
 ## 문제
 
-이번주 알고리즘 : 삼성+카카오 기출
+이번주 알고리즘 : 자료구조, 재귀
 
 문제 :   
 
-1. 주사위굴리기
-https://www.acmicpc.net/problem/14499
+1. 절댓값 힙
+https://www.acmicpc.net/problem/11286
 
-2. 테트로미노
-https://www.acmicpc.net/problem/14500
+2. 회전하는 큐
+https://www.acmicpc.net/problem/1021
 
-3. 행렬테두리회전하기
-https://programmers.co.kr/learn/courses/30/lessons/77485
+3. 별찍기 - 11
+https://www.acmicpc.net/problem/2448
 
-4. 다단계칫솔판매
-https://programmers.co.kr/learn/courses/30/lessons/77486
+4. 최소 힙
+https://www.acmicpc.net/problem/1927
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
