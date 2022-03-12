@@ -1,0 +1,51 @@
+#include <iostream>
+#include <deque>
+
+using namespace std;
+
+int main(void)
+{
+    int ans=0;
+    int N,M;
+    cin >> N >> M;
+    
+    deque<int> dq;
+    
+    for(int i = 1;i<=N;i++) dq.push_back(i);
+    
+    for(int i=0;i<M;i++){
+        int num;
+        int idx=0;
+        cin >> num;
+        
+        for(int j=0;j<dq.size();j++){
+            if( dq[j] == num){
+                idx = j;
+                break;
+            }
+        }
+        
+        if(idx < dq.size() - idx){
+            while(1){
+                int tmp = dq.front();
+                dq.pop_front();
+                if( tmp == num) break;
+                dq.push_back(tmp);
+                ans++;
+            }
+        }
+        else{
+            ans++;
+            while(1){
+                int tmp = dq.back();
+                dq.pop_back();
+                if( tmp == num) break;
+                dq.push_front(tmp);
+                ans++;
+            }
+        }
+    }
+    cout << ans;
+    return 0;
+}
+
