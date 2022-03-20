@@ -35,7 +35,7 @@
 
 
 
-## 2022 3월 20일은 [오프라인]
+## 2022 3월 27일은 [온라인]
 
 __일요일 오전__
 
@@ -63,17 +63,15 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. 평범한 배낭
-https://www.acmicpc.net/problem/12865
+1. 주차 요금 계산
+https://programmers.co.kr/learn/courses/30/lessons/92341
 
-2. 치킨배달
-https://www.acmicpc.net/problem/15686
+2. 최소 비용 구하기 2
+https://www.acmicpc.net/problem/11779
 
-3. 도시분할계획
-https://www.acmicpc.net/problem/1647
+3. 스티커 붙이기
+https://www.acmicpc.net/problem/18808
 
-4. 회사문화
-https://www.acmicpc.net/problem/14267
 
 ## 문제 출제 참고 사이트 
 ###### 코딩테스트 대비 문제집 with Baekjoon: https://github.com/tony9402/baekjoon
