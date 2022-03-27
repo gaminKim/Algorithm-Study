@@ -35,7 +35,7 @@
 
 
 
-## 2022 3월 27일은 [온라인]
+## 2022 4월 03일은 [오프라인]
 
 __일요일 오전__
 
@@ -63,14 +63,20 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. 주차 요금 계산
-https://programmers.co.kr/learn/courses/30/lessons/92341
+1. 퇴사
+https://www.acmicpc.net/problem/14501
 
-2. 최소 비용 구하기 2
-https://www.acmicpc.net/problem/11779
+2. 연구소
 
-3. 스티커 붙이기
-https://www.acmicpc.net/problem/18808
+https://www.acmicpc.net/problem/14502
+
+3. 합승택시요금
+
+https://programmers.co.kr/learn/courses/30/lessons/72413
+
+4. 카드짝맞추기
+
+https://programmers.co.kr/learn/courses/30/lessons/72415
 
 
 ## 문제 출제 참고 사이트 
