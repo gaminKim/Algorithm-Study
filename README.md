@@ -35,7 +35,7 @@
 
 
 
-## 2022 4월 03일은 [오프라인]
+## 2022 4월 10일은 [온라인]
 
 __일요일 오전__
 
@@ -63,22 +63,18 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. 퇴사
+1. 개똥벌레
 
+https://www.acmicpc.net/problem/3020
 
-https://www.acmicpc.net/problem/14501
+2. 문제집
 
-2. 연구소
+https://www.acmicpc.net/problem/1766
 
-https://www.acmicpc.net/problem/14502
+3. 타임머신
 
-3. 합승택시요금
+https://www.acmicpc.net/problem/11657
 
-https://programmers.co.kr/learn/courses/30/lessons/72413
-
-4. 카드짝맞추기
-
-https://programmers.co.kr/learn/courses/30/lessons/72415
 
 
 ## 문제 출제 참고 사이트 
