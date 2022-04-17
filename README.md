@@ -71,9 +71,9 @@ https://www.acmicpc.net/problem/2573
 
 https://programmers.co.kr/learn/courses/30/lessons/92342
 
-3. 내려가기
+3. 전구와 스위치
 
-https://www.acmicpc.net/problem/2096
+https://www.acmicpc.net/problem/2138
 
 
 
