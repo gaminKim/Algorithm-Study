@@ -35,13 +35,13 @@
 
 
 
-## 2022 4월 17일은 [오프라인]
+## 2022 4월 24일은 [온라인]
 
 __일요일 오전__
 
 __10시__
 
-미참석 : 
+미참석 : 주연 
 
 
 ## 만나는 장소
@@ -63,17 +63,17 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. 캐슬디펜스
+1. 빙산
 
-https://www.acmicpc.net/problem/17135
+https://www.acmicpc.net/problem/2573
 
-2. 도서관
+2. 양궁대회
 
-https://www.acmicpc.net/problem/1461
+https://programmers.co.kr/learn/courses/30/lessons/92342
 
-3. 벽 부수고 이동하기 2
+3. 내려가기
 
-https://www.acmicpc.net/problem/14442
+https://www.acmicpc.net/problem/2096
 
 
 
