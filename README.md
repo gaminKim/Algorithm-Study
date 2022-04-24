@@ -1,6 +1,6 @@
 # 알고리즘 스터디
 
-현재 인원 : 6명
+현재 인원 : 7명
 
 오프라인/ 온라인 격주 운영
 
@@ -13,16 +13,15 @@
 
 ## 불참자 관리
 
-|  |온/오프|가민|다정|수진|윤혁|주연|현준|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|3월|온라인(0.5)|0|0|0|0|0|0|
-|    |오프라인(1)|1|.|.|.|.|1|
-|4월|온라인(0.5)||||||||
-||오프라인(1)||||||||
-|합계|온라인(0.5)|0|0|0|0|0|0|
-||오프라인(1)|0|0|0|0|0|0|
-|잔여|온라인(0.5)|1(2회)|1(2회)|1(2회)|1(2회)|1(2회)|1(2회)|
-||오프라인(1)|1(1회)|2(2회)|2(2회)|2(2회)|2(2회)|1(1회)|
+|  |온/오프|가민|다정|수진|윤혁|주연|현준|동주|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|3월|온라인(0.5)|0|0|0|0|0|0|0|
+|    |오프라인(1)|1|.|.|.|.|1|.|
+|4월|온라인(0.5)||1|||||||
+||오프라인(1)|||||||||
+|5월|온라인(0.5)|0|0|0|0|0|0|0|
+|    |오프라인(1)|1|.|1|.|.|.|.|
+
 
 ## __스터디 진행__
 
@@ -35,13 +34,13 @@
 
 
 
-## 2022 4월 24일은 [온라인]
+## 2022 5월 1일은 [오프라인]
 
 __일요일 오전__
 
 __10시__
 
-미참석 : 주연, 다정
+미참석 : ?
 
 
 ## 만나는 장소
@@ -59,21 +58,19 @@ https://gather.town/invite?token=pgp4BlXn
 
 ## 문제
 
-이번주 알고리즘 : 
-
 문제 :   
 
-1. 빙산
+1. Non-Divisible Subset
 
-https://www.acmicpc.net/problem/2573
+https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true
 
-2. 양궁대회
+2. lilys-homework
 
-https://programmers.co.kr/learn/courses/30/lessons/92342
+https://www.hackerrank.com/challenges/lilys-homework/problem?isFullScreen=true
 
-3. 전구와 스위치
+3. bigger-is-greater
 
-https://www.acmicpc.net/problem/2138
+https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true
 
 
 
