@@ -20,7 +20,7 @@
 |4월|온라인(0.5)||1|||||||
 ||오프라인(1)|||||||||
 |5월|온라인(0.5)|0|0|0|0|0|0|0|
-|    |오프라인(1)|1|.|1|.|.|.|.|
+|    |오프라인(1)|1|.|1|.|1|1|1|
 
 
 ## __스터디 진행__
@@ -34,7 +34,7 @@
 
 
 
-## 2022 5월 1일은 [오프라인]
+## 2022 5월 8일은 [온라인]
 
 __일요일 오전__
 
@@ -60,17 +60,17 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. Non-Divisible Subset
+1. Highest Value Palindrome
 
-https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/richie-rich/problem?isFullScreen=true
 
-2. lilys-homework
+2. B - Get Closer
 
-https://www.hackerrank.com/challenges/lilys-homework/problem?isFullScreen=true
+https://atcoder.jp/contests/abc246/tasks/abc246_b
 
-3. bigger-is-greater
+3. 알고 스팟
 
-https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true
+https://www.acmicpc.net/problem/1261
 
 
 
