@@ -34,7 +34,7 @@
 
 
 
-## 2022 5월 8일은 [온라인]
+## 2022 5월 15일은 [오프라인]
 
 __일요일 오전__
 
@@ -60,17 +60,17 @@ https://gather.town/invite?token=pgp4BlXn
 
 문제 :   
 
-1. Highest Value Palindrome
+1. 순회강연
 
-https://www.hackerrank.com/challenges/richie-rich/problem?isFullScreen=true
+https://www.acmicpc.net/problem/2109
 
-2. B - Get Closer
+2. 숫자고르기
 
-https://atcoder.jp/contests/abc246/tasks/abc246_b
+https://www.acmicpc.net/problem/2668
 
-3. 알고 스팟
+3. 기업투자
 
-https://www.acmicpc.net/problem/1261
+https://www.acmicpc.net/problem/2662
 
 
 
