@@ -2,14 +2,11 @@
 
 ## 운영 지침
 - 순번을 정해서 문제 제출을 하고 정해진 기간(일주일) 내에 해결한 코드를 github에 merge
-- 모임이 필요한 스터디원은 아래 만나는 장소를 이용
+- 모임이 필요한 스터디원들은 따로 진행
 
-## 만나는 장소
+## 운영 채널
 
-[온라인] __게더타운__
-https://gather.town/invite?token=pgp4BlXn
-
-[오프라인] 강남 스터디룸/카페
+게더 타운(https://gather.town/invite?token=pgp4BlXn), 카카오톡
 
 ## 문제
 
