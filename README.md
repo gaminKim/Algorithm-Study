@@ -10,17 +10,17 @@
 
 ## 문제
 
-1. 순회강연
+1. 타임 머신
 
-https://www.acmicpc.net/problem/2109
+https://www.acmicpc.net/problem/11657
 
-2. 숫자고르기
+2. LCS 2
 
-https://www.acmicpc.net/problem/2668
+https://www.acmicpc.net/problem/9252
 
-3. 기업투자
+3. 전깃줄
 
-https://www.acmicpc.net/problem/2662
+https://www.acmicpc.net/problem/2565
 
 
 
