@@ -10,17 +10,17 @@
 
 ## 문제
 
-1. 타임 머신
+1. 계란으로 계란치기
 
-https://www.acmicpc.net/problem/11657
+https://www.acmicpc.net/problem/16987
 
-2. LCS 2
+2. 적록색약
 
-https://www.acmicpc.net/problem/9252
+https://www.acmicpc.net/problem/10026
 
-3. 전깃줄
+3. 거짓말
 
-https://www.acmicpc.net/problem/2565
+https://www.acmicpc.net/problem/1043
 
 
 
